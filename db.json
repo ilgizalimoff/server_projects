@@ -1,0 +1,164 @@
+{
+    "links": [
+        {
+            "id": 1,
+            "title": "Flashcards",
+            "type": "js",
+            "body": "Данное приложение позволяет вам создавать карточки с вопросами и ответами. Создается карточка с вопросом и по клику на карточку можно получить ответ. Данные хранятся в локальном хранилище.  Можно удалить как отдельно каждую карточку, так и все сразу.",
+            "linkTry": "https://ilgizalimoff.github.io/flashcards/",
+            "linkGithiub": "https://github.com/ilgizalimoff/flashcards"
+        },
+        {
+            "id": 2,
+            "title": "Sticky Notes",
+            "type": "js",
+            "body": "Создавай стикеры при помощи этого приложения! Стикеры не сохраняются и при перезагрузке будут удалены. Каждый стикер создается с рандомным цветом и наклоном. При двойном клике по стикеру можно его удалить.",
+            "linkTry": "https://ilgizalimoff.github.io/sticky_notes/",
+            "linkGithiub": "https://github.com/ilgizalimoff/sticky_notes"
+        },
+        {
+            "id": 3,
+            "title": "Typewriter",
+            "type": "js",
+            "body": "Генерируется цитата с бесплатного сайта и приложение являющееся пишущей машинкой, переписывает ее посимвольно. После переписывания всей цитаты спустя 3 секунды операция повторяется.",
+            "linkTry": "https://ilgizalimoff.github.io/typewriter/",
+            "linkGithiub": "https://github.com/ilgizalimoff/typewriter"
+        },
+        {
+            "id": 4,
+            "title": "Image Generator",
+            "type": "js",
+            "body": "Это обычный генератор картинок по ключевым словам. Вводится слово для поиска и показывается 6 первых картинок, которые берутся с бесплатного сайта картинок и выводятся. При клике на картинку она открывается в новом окне и ее можно скачать.",
+            "linkTry": "https://ilgizalimoff.github.io/image_generator/",
+            "linkGithiub": "https://github.com/ilgizalimoff/image_generator"
+        },
+        {
+            "id": 5,
+            "title": "Math for kids ",
+            "type": "js",
+            "body": "Хотите научить ребенка считать простые примеры? Тогда это приложение для вас. Четыре простые математические операции и небольшие числа помогут научить ребенка считать. Имеется счетчик правильных овтетов. Если клик идет по неправильному ответу, ничего не происходит пока не будет выбран правильный.",
+            "linkTry": "https://ilgizalimoff.github.io/math_for_kids/",
+            "linkGithiub": "https://github.com/ilgizalimoff/math_for_kids"
+        },
+        {
+            "id": 6,
+            "title": "Amount",
+            "type": "js",
+            "body": "Простой калькулятор чаевых на человека. Вводится общая сумма платежа и процент чаевых. Происходит высчитывание чаевых на каждого человека и выводится ответ.",
+            "linkTry": "https://ilgizalimoff.github.io/amount/",
+            "linkGithiub": "https://github.com/ilgizalimoff/amount"
+        },
+        {
+            "id": 7,
+            "title": "Grocery List",
+            "type": "js",
+            "body": "Приложение, позовяющее хранить список покупок. Изначально выводится 2 товара. Их можно удалить, клинкув на них и нажав на крестик в углу. Также можно добавлять свои покупки и удалять и их в зависимости от вашего желания.",
+            "linkTry": "https://ilgizalimoff.github.io/grocery_list/",
+            "linkGithiub": "https://github.com/ilgizalimoff/grocery_list"
+        },
+        {
+            "id": 8,
+            "title": "Calculator",
+            "type": "js",
+            "body": "Приложение представляет собой обычный калькулятор с четырмя простыми операциями. Попробуй посчитать что-нибудь!",
+            "linkTry": "https://ilgizalimoff.github.io/calculator/",
+            "linkGithiub": "https://github.com/ilgizalimoff/calculator"
+        },
+        {
+            "id": 9,
+            "title": "Test Task ",
+            "type": "js",
+            "body": "Это тестовое задание мне было дано одной компанией. Я сделал его так, как смог на тот момент. Выводятся заказы и их дополнительные сведения. Также можно добавлять новые заказы, введя все необходимые сведения.",
+            "linkTry": "https://ilgizalimoff.github.io/test_task/",
+            "linkGithiub": "https://github.com/ilgizalimoff/test_task"
+        },
+        {
+            "id": 10,
+            "title": "Todo",
+            "type": "js",
+            "body": "Это обычный список (ToDo лист). Можно заполнить его чем угодно. Данное приложение чем-то похоже на Grocery List, но тут мы можем выделять важные задачи или помечать их выполненными (клик правой кнопкой мыши), а также при необходимости удалять их.",
+            "linkTry": "https://ilgizalimoff.github.io/todo/",
+            "linkGithiub": "https://github.com/ilgizalimoff/todo"
+        },
+        {
+            "id": 11,
+            "title": "Slider",
+            "type": "js",
+            "body": "Это приложение представляет собой слайдер картинок. При помощи кнопок их можно переключать.",
+            "linkTry": "https://ilgizalimoff.github.io/slider/",
+            "linkGithiub": "https://github.com/ilgizalimoff/slider"
+        },
+        {
+            "id": 12,
+            "title": "React Patterns",
+            "type": "react",
+            "body": "React Patterns body ",
+            "linkTry": "https://ilgizalimoff.github.io/react_patterns/",
+            "linkGithiub": "https://github.com/ilgizalimoff/react_patterns"
+        },
+        {
+            "id": 13,
+            "title": "Carshering",
+            "type": "html",
+            "body": "Carshering body",
+            "linkTry": "https://ilgizalimoff.github.io/carshering_html/",
+            "linkGithiub": "https://github.com/ilgizalimoff/carshering_html"
+        },
+        {
+            "id": 14,
+            "title": "Buss",
+            "type": "html",
+            "body": "Buss body",
+            "linkTry": "https://ilgizalimoff.github.io/buss_html/",
+            "linkGithiub": "https://github.com/ilgizalimoff/buss_html"
+        },
+        {
+            "id": 15,
+            "title": "Social Network",
+            "type": "react",
+            "body": "Social Network body",
+            "linkTry": "https://ilgizalimoff.github.io/social_network/",
+            "linkGithiub": "https://github.com/ilgizalimoff/social_network"
+        },
+        {
+            "id": 16,
+            "title": "Email PHP",
+            "type": "other",
+            "body": "Email PHP body",
+            "linkTry": "https://ilgizalimoff.github.io/email_php/",
+            "linkGithiub": "https://github.com/ilgizalimoff/email_php"
+        },
+        {
+            "id": 17,
+            "title": "SQL C#",
+            "type": "c#",
+            "body": "SQL C# body",
+            "linkTry": "https://ilgizalimoff.github.io/sql_sharp/",
+            "linkGithiub": "https://github.com/ilgizalimoff/sql_sharp"
+        },
+        {
+            "id": 18,
+            "title": "Electronic book",
+            "type": "c#",
+            "body": "Electronic book body",
+            "linkTry": "https://ilgizalimoff.github.io/electronic_book/",
+            "linkGithiub": "https://github.com/ilgizalimoff/electronic_book"
+        },
+        {
+            "id": 19,
+            "title": "Law html",
+            "type": "html",
+            "body": "Law body",
+            "linkTry": "https://ilgizalimoff.github.io/law_html/",
+            "linkGithiub": "https://github.com/ilgizalimoff/law_html"
+        },
+        {
+            "id": 20,
+            "title": "Redux course 2020",
+            "type": "other",
+            "body": "Redux course 2020 body",
+            "linkTry": "https://ilgizalimoff.github.io/redux-course-2020/",
+            "linkGithiub": "https://github.com/ilgizalimoff/redux-course-2020"
+        }
+    ]
+}
