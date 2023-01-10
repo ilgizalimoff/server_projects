@@ -160,8 +160,8 @@
             "linkTry": "https://ilgizalimoff.github.io/redux-course-2020/",
             "linkGithiub": "https://github.com/ilgizalimoff/redux-course-2020"
         },
-                {
-            "id": 21
+        {
+            "id": 21,
             "title": "Portfolio App",
             "type": "react",
             "body": "Portfolio App body",
