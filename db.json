@@ -131,7 +131,7 @@
         {
             "id": 17,
             "title": "SQL C#",
-            "type": "c#",
+            "type": "sharp",
             "body": "SQL C# body",
             "linkTry": "https://ilgizalimoff.github.io/sql_sharp/",
             "linkGithiub": "https://github.com/ilgizalimoff/sql_sharp"
@@ -139,7 +139,7 @@
         {
             "id": 18,
             "title": "Electronic book",
-            "type": "c#",
+            "type": "sharp",
             "body": "Electronic book body",
             "linkTry": "https://ilgizalimoff.github.io/electronic_book/",
             "linkGithiub": "https://github.com/ilgizalimoff/electronic_book"
